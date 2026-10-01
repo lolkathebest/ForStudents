@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "3ce74e63b755eeed",
+    "type": "split",
+    "children": [
+      {
+        "id": "c54f6e07d87bcfac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4dc978eec2b8e2b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Основы алгоритмизации и программирования/Книги/programming2021.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "programming2021"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98c52c19916e97ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f215ac22d7f70929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7318f7ad9a7dd4bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "94d02833409f6036",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "935bb535fe1ddc29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4a6bd4d9e7d05e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "59dbe8b8ae9f02f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151115370670ac37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Основы алгоритмизации и программирования/Книги/programming2021.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "0a05e183c0e6d316",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Основы алгоритмизации и программирования/Книги/programming2021.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "7a97a2518c7046e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "96771c4d8b40dea6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "b2e744c17f0296e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Основы алгоритмизации и программирования/Книги/programming2021.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "f4dc978eec2b8e2b",
+  "lastOpenFiles": [
+    "Основы алгоритмизации и программирования/Книги/Kleinberg_Tardoc_algoritmy_razrabotka_i_primenenie.pdf",
+    "Основы алгоритмизации и программирования/Книги/programming2021.pdf",
+    "Основы алгоритмизации и программирования/Задания/1 октября/Практика №4 Массивы.md",
+    "Основы алгоритмизации и программирования/Задания/2 октября/Дз на 6 октября..md",
+    "Основы алгоритмизации и программирования/Задания/1 октября/дз на 2 октября.md",
+    "Без названия.md",
+    "Основы алгоритмизации и программирования/Задания/2 октября",
+    "gitauto.sh"
+  ]
+}
